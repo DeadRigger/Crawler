@@ -1,0 +1,83 @@
+name,url,url_tco,fuel,drive,power,acceleration,fuel_rate,price,cost_with_kasko,cost_without_kasko
+LADA Granta седан 1.6 MT Standard,https://quto.ru/Lada/Granta/If/sedan4d/16MT_8v/,https://quto.ru/Lada/Granta/If/sedan4d/16MT_8v/tco,бензин,передний,87,11.6,6.8,419900,386878,253515
+LADA Granta седан 1.6 MT Classic,https://quto.ru/Lada/Granta/If/sedan4d/16MT_8v_Classic/,https://quto.ru/Lada/Granta/If/sedan4d/16MT_8v_Classic/tco,бензин,передний,87,11.6,6.8,455500,397967,253515
+LADA Granta седан 1.6 MT Classic Optima,https://quto.ru/Lada/Granta/If/sedan4d/16MT_8v_ClassicOptima/,https://quto.ru/Lada/Granta/If/sedan4d/16MT_8v_ClassicOptima/tco,бензин,передний,87,11.6,6.8,481500,406239,253515
+LADA Granta седан 1.6 MT Comfort,https://quto.ru/Lada/Granta/If/sedan4d/16MT_8v_Comfort/,https://quto.ru/Lada/Granta/If/sedan4d/16MT_8v_Comfort/tco,бензин,передний,87,11.6,6.8,501500,412575,253515
+LADA Granta седан 1.6 MT Luxe,https://quto.ru/Lada/Granta/If/sedan4d/16MT_8v_Luxe/,https://quto.ru/Lada/Granta/If/sedan4d/16MT_8v_Luxe/tco,бензин,передний,87,11.6,6.8,538800,424409,253515
+LADA Granta седан 1.6 AT Comfort,https://quto.ru/Lada/Granta/If/sedan4d/16AT_98_Comfort/,https://quto.ru/Lada/Granta/If/sedan4d/16AT_98_Comfort/tco,бензин,передний,98,13.1,7.2,581500,451539,267135
+LADA Granta седан 1.6 AT Luxe,https://quto.ru/Lada/Granta/If/sedan4d/16AT_98_Luxe/,https://quto.ru/Lada/Granta/If/sedan4d/16AT_98_Luxe/tco,бензин,передний,98,13.1,7.2,608800,460205,267135
+LADA Granta седан 1.6 MT Comfort,https://quto.ru/Lada/Granta/If/sedan4d/16MT_106/,https://quto.ru/Lada/Granta/If/sedan4d/16MT_106/tco,бензин,передний,106,10.5,6.5,516500,419302,255490
+LADA Granta седан 1.6 MT Luxe,https://quto.ru/Lada/Granta/If/sedan4d/16MT_106_Luxe/,https://quto.ru/Lada/Granta/If/sedan4d/16MT_106_Luxe/tco,бензин,передний,106,10.5,6.5,553800,431136,255490
+LADA Granta седан 1.6 MT Luxe Prestige,https://quto.ru/Lada/Granta/If/sedan4d/16MT_106_LuxePrestige/,https://quto.ru/Lada/Granta/If/sedan4d/16MT_106_LuxePrestige/tco,бензин,передний,106,10.5,6.5,572800,437120,255490
+LADA Granta седан 1.6 AMT Classic Optima,https://quto.ru/Lada/Granta/If/sedan4d/16AMT_106_ClassicOptima/,https://quto.ru/Lada/Granta/If/sedan4d/16AMT_106_ClassicOptima/tco,бензин,передний,106,12,6.5,521500,420886,255490
+LADA Granta седан 1.6 AMT Comfort,https://quto.ru/Lada/Granta/If/sedan4d/16AMT_106_Comfort/,https://quto.ru/Lada/Granta/If/sedan4d/16AMT_106_Comfort/tco,бензин,передний,106,12,6.5,541500,427222,255490
+LADA Granta седан 1.6 AMT Luxe,https://quto.ru/Lada/Granta/If/sedan4d/16AMT_106_Luxe/,https://quto.ru/Lada/Granta/If/sedan4d/16AMT_106_Luxe/tco,бензин,передний,106,12,6.5,578800,439056,255490
+LADA Granta седан 1.6 AMT Luxe Prestige,https://quto.ru/Lada/Granta/If/sedan4d/16AMT_106_LuxePrestige/,https://quto.ru/Lada/Granta/If/sedan4d/16AMT_106_LuxePrestige/tco,бензин,передний,106,12,6.5,597800,445040,255490
+LADA Granta лифтбек 1.6 MT Standard,https://quto.ru/Lada/Granta/If/hatchback5d/16MT_8v/,https://quto.ru/Lada/Granta/If/hatchback5d/16MT_8v/tco,бензин,передний,87,11.8,6.8,436900,392070,253515
+LADA Granta лифтбек 1.6 MT Classic,https://quto.ru/Lada/Granta/If/hatchback5d/16MT_8v_Classic/,https://quto.ru/Lada/Granta/If/hatchback5d/16MT_8v_Classic/tco,бензин,передний,87,11.8,6.8,470500,402631,253515
+LADA Granta лифтбек 1.6 MT Classic Optima,https://quto.ru/Lada/Granta/If/hatchback5d/16MT_8v_ClassicOptima/,https://quto.ru/Lada/Granta/If/hatchback5d/16MT_8v_ClassicOptima/tco,бензин,передний,87,11.8,6.8,496500,410991,253515
+LADA Granta лифтбек 1.6 MT Comfort,https://quto.ru/Lada/Granta/If/hatchback5d/16MT_8v_Comfort/,https://quto.ru/Lada/Granta/If/hatchback5d/16MT_8v_Comfort/tco,бензин,передний,87,11.8,6.8,516500,417327,253515
+LADA Granta лифтбек 1.6 MT Luxe,https://quto.ru/Lada/Granta/If/hatchback5d/16MT_8v_Luxe/,https://quto.ru/Lada/Granta/If/hatchback5d/16MT_8v_Luxe/tco,бензин,передний,87,11.8,6.8,553800,429161,253515
+LADA Granta лифтбек 1.6 AT Comfort,https://quto.ru/Lada/Granta/If/hatchback5d/16AT_98_Comfort/,https://quto.ru/Lada/Granta/If/hatchback5d/16AT_98_Comfort/tco,бензин,передний,98,13.3,7.2,596500,456291,267135
+LADA Granta лифтбек 1.6 AT Luxe,https://quto.ru/Lada/Granta/If/hatchback5d/16AT_98_Luxe/,https://quto.ru/Lada/Granta/If/hatchback5d/16AT_98_Luxe/tco,бензин,передний,98,13.3,7.2,623800,464957,267135
+LADA Granta лифтбек 1.6 MT Comfort,https://quto.ru/Lada/Granta/If/hatchback5d/16MT_106/,https://quto.ru/Lada/Granta/If/hatchback5d/16MT_106/tco,бензин,передний,106,10.6,6.5,531500,424054,255490
+LADA Granta лифтбек 1.6 MT Luxe,https://quto.ru/Lada/Granta/If/hatchback5d/16MT_106_Luxe/,https://quto.ru/Lada/Granta/If/hatchback5d/16MT_106_Luxe/tco,бензин,передний,106,10.6,6.5,568800,435888,255490
+LADA Granta лифтбек 1.6 MT Luxe Prestige,https://quto.ru/Lada/Granta/If/hatchback5d/16MT_106_LuxePrestige/,https://quto.ru/Lada/Granta/If/hatchback5d/16MT_106_LuxePrestige/tco,бензин,передний,106,10.6,6.5,587800,441872,255490
+LADA Granta лифтбек 1.6 AMT Classic Optima,https://quto.ru/Lada/Granta/If/hatchback5d/16AMT_106_ClassicOptima/,https://quto.ru/Lada/Granta/If/hatchback5d/16AMT_106_ClassicOptima/tco,бензин,передний,106,12.1,6.5,536500,425638,255490
+LADA Granta лифтбек 1.6 AMT Comfort,https://quto.ru/Lada/Granta/If/hatchback5d/16AMT_106_Comfort/,https://quto.ru/Lada/Granta/If/hatchback5d/16AMT_106_Comfort/tco,бензин,передний,106,12.1,6.5,556500,431974,255490
+LADA Granta лифтбек 1.6 AMT Luxe,https://quto.ru/Lada/Granta/If/hatchback5d/16AMT_106_Luxe/,https://quto.ru/Lada/Granta/If/hatchback5d/16AMT_106_Luxe/tco,бензин,передний,106,12.1,6.5,593800,443808,255490
+LADA Granta лифтбек 1.6 AMT Luxe Prestige,https://quto.ru/Lada/Granta/If/hatchback5d/16AMT_106_LuxePrestige/,https://quto.ru/Lada/Granta/If/hatchback5d/16AMT_106_LuxePrestige/tco,бензин,передний,106,12.1,6.5,612800,449792,255490
+LADA Granta хэтчбек 1.6 MT Standard,https://quto.ru/Lada/Granta/If/hatchback5/16MT_8v/,https://quto.ru/Lada/Granta/If/hatchback5/16MT_8v/tco,бензин,передний,87,11.9,6.8,436900,253515,253515
+LADA Granta хэтчбек 1.6 MT Classic,https://quto.ru/Lada/Granta/If/hatchback5/16MT_8v_Classic/,https://quto.ru/Lada/Granta/If/hatchback5/16MT_8v_Classic/tco,бензин,передний,87,11.9,6.8,470500,253515,253515
+LADA Granta хэтчбек 1.6 MT Classic Optima,https://quto.ru/Lada/Granta/If/hatchback5/16MT_8v_ClassicOptima/,https://quto.ru/Lada/Granta/If/hatchback5/16MT_8v_ClassicOptima/tco,бензин,передний,87,11.9,6.8,496500,253515,253515
+LADA Granta хэтчбек 1.6 MT Comfort,https://quto.ru/Lada/Granta/If/hatchback5/16MT_8v_Comfort/,https://quto.ru/Lada/Granta/If/hatchback5/16MT_8v_Comfort/tco,бензин,передний,87,11.9,6.8,516500,253515,253515
+LADA Granta хэтчбек 1.6 MT Luxe,https://quto.ru/Lada/Granta/If/hatchback5/16MT_8v_Luxe/,https://quto.ru/Lada/Granta/If/hatchback5/16MT_8v_Luxe/tco,бензин,передний,87,11.9,6.8,553800,253515,253515
+LADA Granta хэтчбек 1.6 AT Comfort,https://quto.ru/Lada/Granta/If/hatchback5/16AT_98_Comfort/,https://quto.ru/Lada/Granta/If/hatchback5/16AT_98_Comfort/tco,бензин,передний,98,13.1,7.2,596500,267135,267135
+LADA Granta хэтчбек 1.6 AT Luxe,https://quto.ru/Lada/Granta/If/hatchback5/16AT_98_Luxe/,https://quto.ru/Lada/Granta/If/hatchback5/16AT_98_Luxe/tco,бензин,передний,98,13.1,7.2,623800,267135,267135
+LADA Granta хэтчбек 1.6 MT Comfort,https://quto.ru/Lada/Granta/If/hatchback5/16MT_106/,https://quto.ru/Lada/Granta/If/hatchback5/16MT_106/tco,бензин,передний,106,10.7,6.5,531500,255490,255490
+LADA Granta хэтчбек 1.6 MT Luxe,https://quto.ru/Lada/Granta/If/hatchback5/16MT_106_Luxe/,https://quto.ru/Lada/Granta/If/hatchback5/16MT_106_Luxe/tco,бензин,передний,106,10.7,6.5,568800,255490,255490
+LADA Granta хэтчбек 1.6 MT Luxe Prestige,https://quto.ru/Lada/Granta/If/hatchback5/16MT_106_LuxePrestige/,https://quto.ru/Lada/Granta/If/hatchback5/16MT_106_LuxePrestige/tco,бензин,передний,106,10.7,6.5,587800,255490,255490
+LADA Granta хэтчбек 1.6 AMT Classic Optima,https://quto.ru/Lada/Granta/If/hatchback5/16AMT_106_ClassicOptima/,https://quto.ru/Lada/Granta/If/hatchback5/16AMT_106_ClassicOptima/tco,бензин,передний,106,12.2,6.5,536500,255490,255490
+LADA Granta хэтчбек 1.6 AMT Comfort,https://quto.ru/Lada/Granta/If/hatchback5/16AMT_106_Comfort/,https://quto.ru/Lada/Granta/If/hatchback5/16AMT_106_Comfort/tco,бензин,передний,106,12.2,6.5,556500,255490,255490
+LADA Granta хэтчбек 1.6 AMT Luxe,https://quto.ru/Lada/Granta/If/hatchback5/16AMT_106_Luxe/,https://quto.ru/Lada/Granta/If/hatchback5/16AMT_106_Luxe/tco,бензин,передний,106,12.2,6.5,593800,255490,255490
+LADA Granta хэтчбек 1.6 AMT Luxe Prestige,https://quto.ru/Lada/Granta/If/hatchback5/16AMT_106_LuxePrestige/,https://quto.ru/Lada/Granta/If/hatchback5/16AMT_106_LuxePrestige/tco,бензин,передний,106,12.2,6.5,612800,255490,255490
+LADA Granta универсал 1.6 MT Standard,https://quto.ru/Lada/Granta/If/touring5d/16MT_8v/,https://quto.ru/Lada/Granta/If/touring5d/16MT_8v/tco,бензин,передний,87,11.9,6.8,446900,253515,253515
+LADA Granta универсал 1.6 MT Classic,https://quto.ru/Lada/Granta/If/touring5d/16MT_8v_Classic/,https://quto.ru/Lada/Granta/If/touring5d/16MT_8v_Classic/tco,бензин,передний,87,11.9,6.8,480500,253515,253515
+LADA Granta универсал 1.6 MT Classic Optima,https://quto.ru/Lada/Granta/If/touring5d/16MT_8v_ClassicOptima/,https://quto.ru/Lada/Granta/If/touring5d/16MT_8v_ClassicOptima/tco,бензин,передний,87,11.9,6.8,506500,253515,253515
+LADA Granta универсал 1.6 MT Comfort,https://quto.ru/Lada/Granta/If/touring5d/16MT_8v_Comfort/,https://quto.ru/Lada/Granta/If/touring5d/16MT_8v_Comfort/tco,бензин,передний,87,11.9,6.8,526500,253515,253515
+LADA Granta универсал 1.6 MT Luxe,https://quto.ru/Lada/Granta/If/touring5d/16MT_8v_Luxe/,https://quto.ru/Lada/Granta/If/touring5d/16MT_8v_Luxe/tco,бензин,передний,87,11.9,6.8,563800,253515,253515
+LADA Granta универсал 1.6 AT Comfort,https://quto.ru/Lada/Granta/If/touring5d/16AT_98_Comfort/,https://quto.ru/Lada/Granta/If/touring5d/16AT_98_Comfort/tco,бензин,передний,98,13.1,7.2,606500,267135,267135
+LADA Granta универсал 1.6 AT Luxe,https://quto.ru/Lada/Granta/If/touring5d/16AT_98_Luxe/,https://quto.ru/Lada/Granta/If/touring5d/16AT_98_Luxe/tco,бензин,передний,98,13.1,7.2,633800,267135,267135
+LADA Granta универсал 1.6 MT Comfort,https://quto.ru/Lada/Granta/If/touring5d/16MT_106/,https://quto.ru/Lada/Granta/If/touring5d/16MT_106/tco,бензин,передний,106,10.7,6.5,541500,255490,255490
+LADA Granta универсал 1.6 MT Luxe,https://quto.ru/Lada/Granta/If/touring5d/16MT_106_Luxe/,https://quto.ru/Lada/Granta/If/touring5d/16MT_106_Luxe/tco,бензин,передний,106,10.7,6.5,578800,255490,255490
+LADA Granta универсал 1.6 MT Luxe Prestige,https://quto.ru/Lada/Granta/If/touring5d/16MT_106_LuxePrestige/,https://quto.ru/Lada/Granta/If/touring5d/16MT_106_LuxePrestige/tco,бензин,передний,106,10.7,6.5,597800,255490,255490
+LADA Granta универсал 1.6 AMT Classic Optima,https://quto.ru/Lada/Granta/If/touring5d/16AMT_106_ClassicOptima/,https://quto.ru/Lada/Granta/If/touring5d/16AMT_106_ClassicOptima/tco,бензин,передний,106,12.2,6.5,546500,255490,255490
+LADA Granta универсал 1.6 AMT Comfort,https://quto.ru/Lada/Granta/If/touring5d/16AMT_106_Comfort/,https://quto.ru/Lada/Granta/If/touring5d/16AMT_106_Comfort/tco,бензин,передний,106,12.2,6.5,566500,255490,255490
+LADA Granta универсал 1.6 AMT Luxe,https://quto.ru/Lada/Granta/If/touring5d/16AMT_106_Luxe/,https://quto.ru/Lada/Granta/If/touring5d/16AMT_106_Luxe/tco,бензин,передний,106,12.2,6.5,603800,255490,255490
+LADA Granta универсал 1.6 AMT Luxe Prestige,https://quto.ru/Lada/Granta/If/touring5d/16AMT_106_LuxePrestige/,https://quto.ru/Lada/Granta/If/touring5d/16AMT_106_LuxePrestige/tco,бензин,передний,106,12.2,6.5,622800,255490,255490
+Brilliance H230 седан 1.5 MT Comfort,https://quto.ru/Brilliance/H230/I/sedan4d/15MT_Comfort/,https://quto.ru/Brilliance/H230/I/sedan4d/15MT_Comfort/tco,бензин,передний,105,12.6,7.2,459900,298440,298440
+Brilliance H230 седан 1.5 AMT Deluxe,https://quto.ru/Brilliance/H230/I/sedan4d/15AT_Deluxe/,https://quto.ru/Brilliance/H230/I/sedan4d/15AT_Deluxe/tco,бензин,передний,105,14.4,7,529900,291690,291690
+Ravon R2 1.2 AT Comfort,https://quto.ru/Ravon/R2/I/hatchback5d/12AT_Comfort/,https://quto.ru/Ravon/R2/I/hatchback5d/12AT_Comfort/tco,бензин,передний,85,12.4,н. д.,489000,248665,248665
+Ravon R2 1.2 AT Optimum,https://quto.ru/Ravon/R2/I/hatchback5d/12AT_Optimum/,https://quto.ru/Ravon/R2/I/hatchback5d/12AT_Optimum/tco,бензин,передний,85,12.4,н. д.,529000,248665,248665
+Ravon R2 1.2 AT Elegant,https://quto.ru/Ravon/R2/I/hatchback5d/12AT_Elegant/,https://quto.ru/Ravon/R2/I/hatchback5d/12AT_Elegant/tco,бензин,передний,85,12.4,н. д.,559000,248665,248665
+FAW Oley 1.5 AT Comfort,https://quto.ru/FAW/Oley/I/sedan4d/15AT_Comfort/,https://quto.ru/FAW/Oley/I/sedan4d/15AT_Comfort/tco,бензин,передний,102,н. д.,н. д.,491000,54915,54915
+Datsun on-DO 1.6 MT Access,https://quto.ru/Datsun/on_DO/I/sedan4d/16MT_82_Access/,https://quto.ru/Datsun/on_DO/I/sedan4d/16MT_82_Access/tco,бензин,передний,82,12.2,7,466000,280065,280065
+Datsun on-DO 1.6 MT Trust I,https://quto.ru/Datsun/on_DO/I/sedan4d/16MT_Trust1/,https://quto.ru/Datsun/on_DO/I/sedan4d/16MT_Trust1/tco,бензин,передний,87,12.2,7,498000,280665,280665
+Datsun on-DO 1.6 MT Trust II,https://quto.ru/Datsun/on_DO/I/sedan4d/16MT_Trust2/,https://quto.ru/Datsun/on_DO/I/sedan4d/16MT_Trust2/tco,бензин,передний,87,12.2,7,522000,280665,280665
+Datsun on-DO 1.6 MT Trust III,https://quto.ru/Datsun/on_DO/I/sedan4d/16MT_Trust3/,https://quto.ru/Datsun/on_DO/I/sedan4d/16MT_Trust3/tco,бензин,передний,87,12.2,7,532000,280665,280665
+Datsun on-DO 1.6 MT Dream I,https://quto.ru/Datsun/on_DO/I/sedan4d/16MT_Dream1/,https://quto.ru/Datsun/on_DO/I/sedan4d/16MT_Dream1/tco,бензин,передний,87,12.2,7,557000,280665,280665
+Datsun on-DO 1.6 MT Dream II,https://quto.ru/Datsun/on_DO/I/sedan4d/16MT_Dream3/,https://quto.ru/Datsun/on_DO/I/sedan4d/16MT_Dream3/tco,бензин,передний,87,12.2,7,591000,280665,280665
+Datsun on-DO 1.6 AT Trust I,https://quto.ru/Datsun/on_DO/I/sedan4d/16AT_Trust1/,https://quto.ru/Datsun/on_DO/I/sedan4d/16AT_Trust1/tco,бензин,передний,87,14.4,7.7,548000,304290,304290
+Datsun on-DO 1.6 AT Trust II,https://quto.ru/Datsun/on_DO/I/sedan4d/16AT_Trust2/,https://quto.ru/Datsun/on_DO/I/sedan4d/16AT_Trust2/tco,бензин,передний,87,14.4,7.7,572000,304290,304290
+Datsun on-DO 1.6 AT Trust III,https://quto.ru/Datsun/on_DO/I/sedan4d/16AT_Trust3/,https://quto.ru/Datsun/on_DO/I/sedan4d/16AT_Trust3/tco,бензин,передний,87,14.4,7.7,582000,304290,304290
+Datsun on-DO 1.6 AT Dream I,https://quto.ru/Datsun/on_DO/I/sedan4d/16AT_Dream1/,https://quto.ru/Datsun/on_DO/I/sedan4d/16AT_Dream1/tco,бензин,передний,87,14.4,7.7,607000,304290,304290
+Datsun on-DO 1.6 AT Dream II,https://quto.ru/Datsun/on_DO/I/sedan4d/16AT_Dream3/,https://quto.ru/Datsun/on_DO/I/sedan4d/16AT_Dream3/tco,бензин,передний,87,14.4,7.7,641000,304290,304290
+Datsun on-DO 1.6 MT Trust II,https://quto.ru/Datsun/on_DO/I/sedan4d/16MT_16V_TrustII/,https://quto.ru/Datsun/on_DO/I/sedan4d/16MT_16V_TrustII/tco,бензин,передний,106,10.5,6.6,537000,278365,278365
+Datsun on-DO 1.6 MT Trust III,https://quto.ru/Datsun/on_DO/I/sedan4d/16MT_16V_TrustIII/,https://quto.ru/Datsun/on_DO/I/sedan4d/16MT_16V_TrustIII/tco,бензин,передний,106,10.5,6.6,547000,278365,278365
+Datsun on-DO 1.6 MT Dream I,https://quto.ru/Datsun/on_DO/I/sedan4d/16MT_16V_DreamI/,https://quto.ru/Datsun/on_DO/I/sedan4d/16MT_16V_DreamI/tco,бензин,передний,106,10.5,6.6,572000,278365,278365
+Datsun on-DO 1.6 MT Dream II,https://quto.ru/Datsun/on_DO/I/sedan4d/16MT_16V_DreamII/,https://quto.ru/Datsun/on_DO/I/sedan4d/16MT_16V_DreamII/tco,бензин,передний,106,10.5,6.6,606000,278365,278365
+Ravon Nexia 1.5 MT Comfort,https://quto.ru/Ravon/Nexia/I/sedan4d/15MT_Comfort/,https://quto.ru/Ravon/Nexia/I/sedan4d/15MT_Comfort/tco,бензин,передний,107,н. д.,н. д.,499000,55790,55790
+Ravon Nexia 1.5 MT Optimum,https://quto.ru/Ravon/Nexia/I/sedan4d/15MT_Optimum/,https://quto.ru/Ravon/Nexia/I/sedan4d/15MT_Optimum/tco,бензин,передний,107,н. д.,н. д.,529000,55790,55790
+Ravon Nexia 1.5 MT Elegant,https://quto.ru/Ravon/Nexia/I/sedan4d/15MT_Elegant/,https://quto.ru/Ravon/Nexia/I/sedan4d/15MT_Elegant/tco,бензин,передний,107,н. д.,н. д.,559000,55790,55790
+Ravon Nexia 1.5 AT Optimum,https://quto.ru/Ravon/Nexia/I/sedan4d/15AT_Optimum/,https://quto.ru/Ravon/Nexia/I/sedan4d/15AT_Optimum/tco,бензин,передний,107,н. д.,н. д.,569000,55790,55790
+Ravon Nexia 1.5 AT Elegant,https://quto.ru/Ravon/Nexia/I/sedan4d/15AT_Elegant/,https://quto.ru/Ravon/Nexia/I/sedan4d/15AT_Elegant/tco,бензин,передний,107,н. д.,н. д.,599000,55790,55790
